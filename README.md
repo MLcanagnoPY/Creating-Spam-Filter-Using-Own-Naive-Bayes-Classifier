@@ -1,4 +1,4 @@
-# Creating-Spam-Filter-Using-Own-Naive-Bayes-Classifier
+# Creating-Spam-Filter-and-Naive-Bayes-Classifier
 For this Classification problem we used a database consisting of 5500+ text messages labeled "Spam" (malicious) or "Ham" (benevolent).
 Since our data were not belonging to a distribution and our output variable was categorical and not numerical we could not use the Naive Bayes classifier from Scikit-Learn. Instead we created our own Naive Bayes classifier. 
 Methodology : 
